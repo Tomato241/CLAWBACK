@@ -12,6 +12,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+
 /[Uu]ser[Ss]ettings/
 *.log
 
@@ -104,3 +105,23 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+CLAWBACK/.vsconfig
+CLAWBACK/Assembly-CSharp.csproj
+CLAWBACK/CLAWBACK.sln
+CLAWBACK/.vs/CLAWBACK/project-colors.json
+CLAWBACK/.vs/CLAWBACK/FileContentIndex/21a49f47-2ded-48a7-a9e2-4ac272791f4b.vsidx
+CLAWBACK/.vs/CLAWBACK/FileContentIndex/3cc17768-ab6e-4024-ab1f-c82331dacd29.vsidx
+CLAWBACK/.vs/CLAWBACK/FileContentIndex/8b6e8ab7-f393-4218-aab4-5c131ac8137e.vsidx
+CLAWBACK/.vs/CLAWBACK/FileContentIndex/a0396cc7-b37b-474e-a7eb-920b88d6ca16.vsidx
+CLAWBACK/.vs/CLAWBACK/FileContentIndex/read.lock
+CLAWBACK/.vs/CLAWBACK/v17/.suo
+CLAWBACK/Library/
+CLAWBACK/Logs/
+CLAWBACK/obj/
+CLAWBACK/UserSettings/
+*.sln
+*.suo
+CLAWBACK/Temp/
+CLAWBACK/.vs/
+CLAWBACK/Assets/TextMesh Pro

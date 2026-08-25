@@ -22,7 +22,7 @@ public class UFOClawChain : MonoBehaviour
     [SerializeField] private float m_swingPower = 1.0f; 
 
     [Header("Weight")]
-    [SerializeField] private float m_itemWeight = 0.0f;
+    [SerializeField] private float m_itemWeight = 0.0f; 
 
     private Vector3[] m_previousPositions;
     private Vector3[] m_velocities;
